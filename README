@@ -1,0 +1,39 @@
+# Electrical Contractors: Mitigate Labor Shortages with AI
+
+A responsive AI-powered landing page created for electrical contractors. 
+The website provides information about AI solutions and includes a playbook download form.
+
+## Features
+
+- Responsive design for desktop, tablet, and mobile
+- AI-focused landing page
+- Playbook preview section
+- Lead generation form
+- Form validation using JavaScript
+- Smooth navigation between pages
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5
+
+## Project Structure
+Electrical-AI-Landing-Page/
+
+├── index.html
+├── landing.html
+├── style.css
+├── landing.css
+├── script.js
+├── landing.js
+└── README.md
+
+Live Demo
+
+Add your deployed website link here.
+
+Author
+
+TANUJA PUNWATKAR
